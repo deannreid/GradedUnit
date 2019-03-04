@@ -1,15 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-
-/*
-Theme Name: XenoHost - Fast | Reliable | Affordable
-Version: 2.0
-Author: Surjith SM
-Author URI: http://themeforest.net/user/surjithctly
-*/
-
-
 /******************  Table of Contents  *****************************
 1. GLOBAL STYLES
 1. HEADER
@@ -26,10 +17,6 @@ Author URI: http://themeforest.net/user/surjithctly
 12. BLOG
 13. CUSTOM MEDIA QUERIES
 14. VERSION 1.1
-
-
-If you having trouble in editing css. please send a mail to support@surjithctly.in - i will really help you
-
 */
 
 
@@ -72,7 +59,7 @@ p {
 	color: #fff;
 	/*text-align: center;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);*/
-	background:url(../images/header-bg.jpg) no-repeat #232a31; /* Old browsers */
+	background:url(../images/header-bg.png) no-repeat #232a31; /* Old browsers */
 	height:630px;
 	background-size:cover;
 	overflow:hidden;
