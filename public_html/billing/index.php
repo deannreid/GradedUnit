@@ -18,8 +18,6 @@ echo "
             <div class='container'> 
 
                 <!--==============Hero Unit=================-->
-
-
                         <li>
                             <div class='hero-unit'>
                                 <h1>XenoHost</h1>

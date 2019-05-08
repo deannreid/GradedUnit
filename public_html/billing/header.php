@@ -47,7 +47,7 @@ if(!$user->islg()) // if it's not logged in we hide the user menu
 									echo "<li class='dropdown".
 										// extra classes 
 										($v['class'] ? " ".$v['class'] : "")."'".">
-										<a href='#' class='dropdown-menu' data-toggle='dropdown'>".$v['name']." <b class='caret'></b></a>
+										<a href='#' class='dropdown' data-toggle='dropdown'>".$v['name']." <b class='caret'></b></a>
 										<ul class='dropdown-menu'>";
 									foreach ($v[1] as $k => $v) 
 										echo "<li".
