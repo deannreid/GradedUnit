@@ -38,7 +38,7 @@ echo "
                             <li>24/7 Support</li>
                         </ul>
                     </div>
-                    <p> <a href='#' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
+                    <p> <a href='/~10004084/billing/register.php' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
                 </div>
                 <div class='col-sm-6 col-md-3 PlanPricing'>
                     <div class='planName'> <span class='price'>$29</span>
@@ -55,9 +55,9 @@ echo "
                             <li>24/7 Support</li>
                         </ul>
                     </div>
-                    <p> <a href='#' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
+                    <p> <a href='/~10004084/billing/register.php' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
                 </div>
-                <div class='col-sm-6 col-md-3 PlanPricing Recommended'>
+                <div class='col-sm-6 col-md-3 PlanPricing'>
                     <div class='planName'> <span class='price'>$67</span>
                         <h3>Standard</h3>
                         <p>Monthly Plan</p>
@@ -72,7 +72,7 @@ echo "
                             <li>24/7 Support</li>
                         </ul>
                     </div>
-                    <p> <a href='#' role='button' class='btn btn-danger btn-lg'>Sign Up </a> </p>
+                    <p> <a href='/~10004084/billing/register.php' role='button' class='btn btn-warning btn-lg'>Sign Up </a> </p>
                 </div>
                 <div class='col-sm-6 col-md-3 PlanPricing'>
                     <div class='planName'> <span class='price'>$99</span>
@@ -89,7 +89,7 @@ echo "
                             <li>24/7 Support</li>
                         </ul>
                     </div>
-                    <p> <a href='#' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
+                    <p> <a href='/~10004084/billing/register.php' role='button' class='btn btn-danger btn-lg'>Sign Up </a> </p>
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@ echo "
                 </div>
                 <div class='row'>
                     <div class='col-md-8 col-md-offset-2'>
-                        <form action='https://yourwebsite.com/whmcs/domainchecker.php' method='post'>
+                        <form action='https://xenohost.co.uk/billing/domainchecker.php' method='post'>
                             <input type='hidden' name='direct' value='true' />
                             <div class='row'>
                                 <div class='col-sm-12 form-group'>
@@ -198,10 +198,10 @@ echo "
                             <li><img src='assets/images/cross.png' alt='cross'> </li>
                         </ul>
                     </div>
-                    <p> <a href='#' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
+                    <p> <a href='/~10004084/billing/register.php' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
                 </div>
-                <div class='col-sm-6 col-md-3 pricing2'>
-                    <div class='planHead3'>
+                <div class='col-sm-6 col-md-3 pricing1'>
+                    <div class='planHead2'>
                         <h3>DEDICATED</h3>
                     </div>
                     <div class='planFeatures'>
@@ -230,7 +230,7 @@ echo "
                             <li><img src='assets/images/tick.png' alt='tick'> </li>
                         </ul>
                     </div>
-                    <p> <a href='#' role='button' class='btn btn-danger btn-lg'>Sign Up </a> </p>
+                    <p> <a href='billing/register.php' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
                 </div>
                 <div class='col-sm-6 col-md-3 col-sm-offset-3 col-md-offset-0 pricing1'>
                     <div class='planHead2'>
@@ -262,7 +262,7 @@ echo "
                             <li><img src='assets/images/tick.png' alt='tick'> </li>
                         </ul>
                     </div>
-                    <p> <a href='#' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
+                    <p> <a href='~10004084/~10004084/~10004084/billing/register.php' role='button' class='btn btn-success btn-lg'>Sign Up </a> </p>
                 </div>
             </div>
         </div>

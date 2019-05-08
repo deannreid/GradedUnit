@@ -63,14 +63,7 @@ class presets {
                       array("href" => $set->url."/admin",
                             "name" => "Admin Panel",
                             "class" => $this->isActive("adminpanel")),
-                      "id" => "adminpanel");
-					  
-      $var[] = array("item",
-                      array("href" => $set->url."/users_list.php",
-                            "name" => "User List",
-                            "class" => $this->isActive("userslist")),
-                      "id" => "userslist");
-
+                      "id" => "adminpanel");			  
       $var[] = array("dropdown",
                       array(  array("href" => $set->url."/profile.php?u=".$user->data->userid,
                                        "name" => "<i class=\"icon-user\"></i> My Profile",
@@ -81,7 +74,9 @@ class presets {
                               array("href" => $set->url."/privacy.php",
                                        "name" => "<i class=\"icon-lock\"></i> Privacy settings",
                                        "class" => 0),
-
+							  array("href" => $set->url."/users_list.php",
+                                       "name" => "<i class=\"\"></i> Client List",
+                                       "class" => 0),
                               array("href" => $set->url."/logout.php",
                                          "name" => "LogOut",
                                          "class" => 0),
